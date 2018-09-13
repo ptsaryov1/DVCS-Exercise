@@ -1,6 +1,6 @@
 # DVCS-Exercise
-<<<<<<< HEAD
 
+Name: Pavel Tsaryov
 
 Matching
 ------------
@@ -29,6 +29,3 @@ Short Answer & Multiple Choice
 14. 2
 15. 1
 16. 3
-=======
-Name: Pavel tsaryov
->>>>>>> 0be892950eaeeee6c7d9d313484d75292583b3dd
